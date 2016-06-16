@@ -1,3 +1,5 @@
+# THIS REPOSITORY IS DEPREACTED, IT WILL BE REPLACED BY A NEW CODACY-CLI IN THE FUTURE
+
 ### Codacy Command Line Interface (CLI)
 # Automated Code Linting and Monitoring
 
